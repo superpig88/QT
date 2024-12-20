@@ -1,0 +1,10 @@
+release/main.o
+release/frmlunarcalendarwidget.o
+release/lunarcalendaritem.o
+release/lunarcalendarinfo.o
+release/lunarcalendarwidget.o
+release/qrc_main.o
+release/moc_frmlunarcalendarwidget.o
+release/moc_lunarcalendaritem.o
+release/moc_lunarcalendarinfo.o
+release/moc_lunarcalendarwidget.o

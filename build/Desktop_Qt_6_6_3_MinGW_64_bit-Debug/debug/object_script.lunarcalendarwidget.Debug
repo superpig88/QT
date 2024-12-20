@@ -1,0 +1,10 @@
+debug/main.o
+debug/frmlunarcalendarwidget.o
+debug/lunarcalendaritem.o
+debug/lunarcalendarinfo.o
+debug/lunarcalendarwidget.o
+debug/qrc_main.o
+debug/moc_frmlunarcalendarwidget.o
+debug/moc_lunarcalendaritem.o
+debug/moc_lunarcalendarinfo.o
+debug/moc_lunarcalendarwidget.o
